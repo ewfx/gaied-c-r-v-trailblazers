@@ -3,7 +3,7 @@
 🎥 **Demo**
 
 - 📹 Video Demo: 
-- ![](Aspose.Words.4153f602-57de-4fde-a16e-930843ad307f.001.png)
+
 - ![image](https://github.com/user-attachments/assets/1be3a716-64e7-46fc-9eb9-cd1b8bcc7585)
 
 https://github.com/ewfx/gaied-c-r-v-trailblazers/blob/main/Recordings/video2706239219.mp4
