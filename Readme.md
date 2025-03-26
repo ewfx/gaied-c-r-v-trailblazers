@@ -1,11 +1,9 @@
 ﻿🎯 **Introduction** Our Gen AI-powered email classification and OCR solution is designed to automate email triage in commercial bank lending services. By leveraging AI, the solution classifies emails, extracts relevant data from emails and attachments, detects primary intent, handles multi-request emails, implements priority-based extraction, identifies duplicate emails, and integrates Google Gemini AI API for enhanced classification accuracy.
 
-🎥 **Demo**
-
-- 📹 Video Demo: 
-
 - ![image](https://github.com/user-attachments/assets/1be3a716-64e7-46fc-9eb9-cd1b8bcc7585)
-
+- 
+🎥 **Demo**
+- 📹 Video Demo: 
 https://github.com/ewfx/gaied-c-r-v-trailblazers/blob/main/Recordings/video2706239219.mp4
 
 
