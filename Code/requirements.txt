@@ -1,0 +1,6 @@
+requests
+pandas
+numpy
+opencv-python
+Pillow
+langchain
